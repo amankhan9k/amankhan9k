@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amankhan9k
+- 👋 Hi, I’m aman
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
  
